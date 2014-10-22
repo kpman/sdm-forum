@@ -1,0 +1,12 @@
+.post {
+
+}
+.post h1 span {
+  cursor: pointer;
+}
+.post-create-date {
+  color: #111;
+}
+.comments-container {
+  margin-top: 15px;
+}
